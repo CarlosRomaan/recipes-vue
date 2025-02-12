@@ -19,7 +19,7 @@
   </footer>
 </template>
 
-<script lang="ts">
+<script setup lang="ts">
 let date = new Date();
 let year = date.getFullYear();
 
